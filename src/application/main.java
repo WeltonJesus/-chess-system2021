@@ -11,5 +11,4 @@ public class main {
         UI.printBoard(chessMatch.getPieces());
 
     }
-
 }
